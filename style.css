@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    margin: 0 auto;
+}
+
+#content {
+    width: 75%;
+    background-color: slategray;
+    margin: 50px auto 0 auto;
+    height: 335px;
+}
+
+img {
+    width: 20%;
+    margin: 20px;
+    border: 1px solid black;
+}
+
+button {
+    margin: 0 auto;
+    width: 100%;
+}
+#button-div {
+    margin: 0 auto;
+    width: 75%;
+}
